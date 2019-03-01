@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.container{
+  display: flex;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+}
+.text_list li{
+  flex: 1;
+}
+.text_button{
+  width: 100px;
+  height: 100px;
+}
